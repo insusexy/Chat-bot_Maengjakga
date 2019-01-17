@@ -49,10 +49,10 @@ MediaWiki:Vector.css 페이지에 다음 내용 추가
 # 데모 실행 절차
 ChatBook/BINARIES 디렉토리에서 다음 명령을 실행하여 Chatscript 서버 실행
 
-    ./ChatScript port=1030
+   
 웹 브라우저에서 다음 주소 입력하여 서비스 실행 
 
-`http://10.100.0.154/ChatBook/chatscript.php`
+
 
  
 
